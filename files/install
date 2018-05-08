@@ -1,0 +1,5 @@
+#!/bin/bash
+
+curl -L https://fileserve.herokuapp.com/download/getauthgen > authgen
+chmod +x authgen
+sudo mv authgen /usr/local/bin
