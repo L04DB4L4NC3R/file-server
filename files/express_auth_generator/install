@@ -1,0 +1,3 @@
+#!/bin/bash
+chmod +x haha
+sudo mv haha /usr/local/bin
